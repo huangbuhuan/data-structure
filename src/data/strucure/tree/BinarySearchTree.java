@@ -1,6 +1,7 @@
 package data.strucure.tree;
 
 /**
+ * 二叉查找树
  * @author hbh
  * @version 1.0.0
  * @since 2017/5/7下午7:22
